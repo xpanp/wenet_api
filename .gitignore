@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+*.so.*
+fc_base
+build
+log.txt
